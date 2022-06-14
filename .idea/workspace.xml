@@ -1,17 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="67ecc730-a581-46c2-ad6f-2190b10e47f9" name="Changes" comment="" />
+    <list default="true" id="67ecc730-a581-46c2-ad6f-2190b10e47f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/Couleur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/Valeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/CarteNePeutPasEtrePoseeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/CarteNonPossedeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/JoueurPasDitUnoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/JoueurPasSonTourException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/ParserManquantException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experts/Expert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experts/ExpertCarteSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/TestsCartesSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/Carte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CarteChangementSens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CarteChoixCouleur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CarteColoree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CarteNoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CartePasseTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CartePlusDeux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Cartes/CarteSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Joueur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UNO/Partie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarteBasique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarteChangementSens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarteChoixCouleur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CartePasserTour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CartePlusDeux.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CartePlusQuatre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Joueur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partie.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2A16jQDuhbFrAy1TYpKiw2f5t9E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +76,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/marius/cours/projets/projet_bpo_mc"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="UNO.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UNO.Main" />
+      <module name="projet_bpo_mc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UNO.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +105,16 @@
       <updated>1654164880840</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
